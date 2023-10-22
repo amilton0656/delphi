@@ -1,0 +1,5 @@
+object DTMconexao: TDTMconexao
+  OldCreateOrder = False
+  Height = 225
+  Width = 298
+end

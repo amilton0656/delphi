@@ -1,0 +1,47 @@
+unit uPrincipal;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, uDTMconexao;
+
+type
+  TfrmPrincipal = class(TForm)
+    MainPrincipal: TMainMenu;
+    mnuCadastro: TMenuItem;
+    mnuMovimentao: TMenuItem;
+    mnuRelatrios: TMenuItem;
+    mnuCliente: TMenuItem;
+    N1: TMenuItem;
+    mnuCategoria: TMenuItem;
+    mnuProduto: TMenuItem;
+    N2: TMenuItem;
+    mnuFechar: TMenuItem;
+    mnuVendas: TMenuItem;
+    mnuClienteRel: TMenuItem;
+    N3: TMenuItem;
+    mnuProdutoRel: TMenuItem;
+    N4: TMenuItem;
+    mnuVendaporData: TMenuItem;
+    procedure mnuFecharClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrincipal: TfrmPrincipal;
+
+implementation
+
+{$R *.dfm}
+
+
+procedure TfrmPrincipal.mnuFecharClick(Sender: TObject);
+begin
+  Application.Terminate;
+end;
+
+end.

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/16 17:23:34.000.522,=C:\Users\Amilton\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/16 17:24:25.000.112,C:\Users\Amilton\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\projetos\projeto01\uPrincipal.dfm</Transaction>
+    <Transaction>2023/10/16 17:24:25.000.112,C:\Users\Amilton\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\projetos\projeto01\uPrincipal.pas</Transaction>
+    <Transaction>2023/10/16 17:24:54.000.744,C:\Users\Amilton\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\projetos\projeto01\Vendas.dproj</Transaction>
+    <Transaction>2023/10/16 17:45:43.000.753,=C:\projetos\projeto01\Unit1.pas</Transaction>
+    <Transaction>2023/10/16 17:48:24.000.472,C:\projetos\projeto01\Unit1.pas=C:\projetos\projeto01\dataModule\uDTMconexao.pas</Transaction>
+    <Transaction>2023/10/16 17:48:24.000.472,C:\projetos\projeto01\Unit1.dfm=C:\projetos\projeto01\dataModule\uDTMconexao.dfm</Transaction>
+    <Transaction>2023/10/21 20:30:02.000.697,=C:\projetos\projeto01\Unit1.pas</Transaction>
+    <Transaction>2023/10/21 20:31:09.000.191,C:\projetos\projeto01\heranca\uTelaHeranca.dfm=C:\projetos\projeto01\Unit1.dfm</Transaction>
+    <Transaction>2023/10/21 20:31:09.000.191,C:\projetos\projeto01\heranca\uTelaHeranca.pas=C:\projetos\projeto01\Unit1.pas</Transaction>
+    <Transaction>2023/10/22 08:41:34.428,=C:\projetos\projeto01\Unit1.pas</Transaction>
+    <Transaction>2023/10/22 08:43:09.180,C:\projetos\projeto01\cadastro\uCadCategoirias.pas=C:\projetos\projeto01\Unit1.pas</Transaction>
+    <Transaction>2023/10/22 08:43:09.180,C:\projetos\projeto01\cadastro\uCadCategoirias.dfm=C:\projetos\projeto01\Unit1.dfm</Transaction>
+    <Transaction>2023/10/22 08:49:28.956,C:\projetos\projeto01\cadastro\uCadCategorias.dfm=C:\projetos\projeto01\cadastro\uCadCategoirias.dfm</Transaction>
+    <Transaction>2023/10/22 08:49:28.956,C:\projetos\projeto01\cadastro\uCadCategorias.pas=C:\projetos\projeto01\cadastro\uCadCategoirias.pas</Transaction>
+    <Transaction>2023/10/22 08:54:18.474,C:\projetos\projeto01\cadastro\uCadCategoria.dfm=C:\projetos\projeto01\cadastro\uCadCategorias.dfm</Transaction>
+    <Transaction>2023/10/22 08:54:18.474,C:\projetos\projeto01\cadastro\uCadCategoria.pas=C:\projetos\projeto01\cadastro\uCadCategorias.pas</Transaction>
+    <Transaction>2023/10/22 10:18:52.297,=C:\projetos\projeto01\terceiros\Enter.pas</Transaction>
+  </Transactions>
+</BorlandProject>
